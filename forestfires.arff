@@ -1,0 +1,30 @@
+@relation forestfires
+
+@attribute "R Mean" numeric
+@attribute "G Mean" numeric
+@attribute "B Mean" numeric
+@attribute "R Standard deviation" numeric
+@attribute "G Standard deviation" numeric
+@attribute "B Standard deviation" numeric
+@attribute "R Median" numeric
+@attribute "G Median" numeric
+@attribute "B Median" numeric
+@attribute "R Entropy" numeric
+@attribute "G Entropy" numeric
+@attribute "B Entropy" numeric
+@attribute "R Energy" numeric
+@attribute "G Energy" numeric
+@attribute "B Energy" numeric
+@attribute "R Kurtosis" numeric
+@attribute "G Kurtosis" numeric
+@attribute "B Kurtosis" numeric
+@attribute "L Mean" numeric
+@attribute "a Mean" numeric
+@attribute "b Mean" numeric
+@attribute "L Standard deviation" numeric
+@attribute "a Standard deviation" numeric
+@attribute "b Standard deviation" numeric
+@attribute "L median" numeric
+@attribute "a median" numeric
+@attribute "b median" numeric
+@attribute "a b Correlation factor" numeric
