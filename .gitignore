@@ -105,3 +105,4 @@ venv.bak/
 
 # project-specific files
 stats.txt
+*.DS_Store
